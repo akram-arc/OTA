@@ -1,15 +1,19 @@
 [
   {
-    "datetime": 1784799715,
-    "version": "23.2",
-    "type": "UNOFFICIAL",
+    "datetime": 1791860305,
     "files": [
       {
-        "filename": "lineage-23.2-20260723-UNOFFICIAL-RM6785.zip",
-        "url": "https://github.com/akram-arc/OTA/releases/download/RM6785-v23.2-20260723/lineage-23.2-20260723-UNOFFICIAL-RM6785.zip",
-        "size": 1572170925,
-        "sha256": "c196a02cc35f475abe566e6e7da03feed346f97d1d21c3051f041174c0778c22"
+        "filename": "lineage-23.2-20261013-UNOFFICIAL-nemo.zip",
+        "os_patch_level": "2026-10-01",
+        "os_sdk_level": 36,
+        "ota_property_files": "metadata:69:381,metadata.pb:518:316",
+        "sha256": "18415903884006b224aee4c542eedf75091e1c5c5ad93f309ea67671e71bd99d",
+        "size": 1728772157,
+        "url": "https://github.com/akram-arc/OTA/releases/download/RM6785/lineage-23.2-20261013-UNOFFICIAL-nemo.zip"
       }
-    ]
+    ],
+    "type": "UNOFFICIAL",
+    "version": "23.2"
   }
 ]
+
